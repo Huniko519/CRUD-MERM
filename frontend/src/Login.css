@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.button_style {
+  margin-left: 10px !important;
+  margin-right: 10px;
+  padding: 10px 20px !important;
+}
+.tbl_h {
+  font-size: 20px;
+}
+.tbl_d {
+  font-size: 15px;
+}
+.input_field {
+  width: 300px;
+  font-size: 15px;
+}
+.centerTable {
+  margin: 0px auto;
+}
+
+h2 {
+  color: #3f51b5;
+}
